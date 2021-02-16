@@ -1,1 +1,1 @@
-[![build status of master](https://travis-ci.com/waz162/TriangleTest.svg?branch=master)](https://travis-ci.com/waz162/TriangleTest)
+[![build status of master](https://travis-ci.org/github/waz162/TriangleTest.png?branch=master)](https://travis-ci.org/github/waz162/TriangleTest)
